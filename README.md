@@ -8,4 +8,7 @@ Objectives:
 - Create efficient document processing pipelines with hybrid search capabilities.
 - Design CI/CD workflows for deploying and testing AI applications.
 - Optimize AI system performance and costs through caching and resource management.
-- Understand how prompt injection attacks happen in RAG.
+
+
+
+- Understand how prompt injection attacks happen in RAG after understanding the entire production workflow.
